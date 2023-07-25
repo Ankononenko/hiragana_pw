@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552797541282",
+    "project_id": "hiragana-00",
+    "storage_bucket": "hiragana-00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552797541282:android:311e0e13b8b95b78cb18fb",
+        "android_client_info": {
+          "package_name": "com.example.hiragana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552797541282-7aloaufao8dfs6frq021vual3ncrvsp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6pL9mc7BFly2Hoh3Y3q4I8gID43PsrjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552797541282-7aloaufao8dfs6frq021vual3ncrvsp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
